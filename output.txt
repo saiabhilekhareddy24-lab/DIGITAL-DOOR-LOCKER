@@ -1,0 +1,59 @@
+========================================
+       DIGITAL DOOR LOCKER
+========================================
+
+1. Enter PIN
+2. Lock Door
+3. Change PIN
+4. Check Status
+5. Exit
+
+Enter your choice: 4
+STATUS: DOOR LOCKED
+
+1. Enter PIN
+2. Lock Door
+3. Change PIN
+4. Check Status
+5. Exit
+
+Enter your choice: 1
+Enter 4-digit PIN: 1111
+INCORRECT PIN: 2 attempt(s) remaining.
+
+1. Enter PIN
+2. Lock Door
+3. Change PIN
+4. Check Status
+5. Exit
+
+Enter your choice: 1
+Enter 4-digit PIN: 1234
+CORRECT PIN: Door unlocked successfully.
+
+1. Enter PIN
+2. Lock Door
+3. Change PIN
+4. Check Status
+5. Exit
+
+Enter your choice: 4
+STATUS: DOOR UNLOCKED
+
+1. Enter PIN
+2. Lock Door
+3. Change PIN
+4. Check Status
+5. Exit
+
+Enter your choice: 2
+DOOR LOCKED SUCCESSFULLY.
+
+1. Enter PIN
+2. Lock Door
+3. Change PIN
+4. Check Status
+5. Exit
+
+Enter your choice: 5
+Thank you for using Digital Door Locker.
